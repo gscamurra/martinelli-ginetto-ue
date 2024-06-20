@@ -7,6 +7,10 @@ header .nav-wrapper, footer, main .hero .hero-content .seperator  {
     
 }
 
+header nav a:any-link {
+    color: #FFF !important;
+}
+
 .text-intro {
     text-align: center;
 }
