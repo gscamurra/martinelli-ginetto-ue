@@ -11,6 +11,10 @@ header nav a:any-link {
     color: #FFF !important;
 }
 
+.hero p {
+    text-align: center !important;
+}
+
 .text-intro {
     text-align: center;
 }
