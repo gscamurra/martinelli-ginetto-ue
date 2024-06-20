@@ -45,6 +45,10 @@ header nav .nav-brand img {
     max-width: 600px !important;
 }
 
+footer .footer p {
+    color: #FFF !important;
+}
+
 
 @media (max-width: 900px) {
     .background-grey.section {
