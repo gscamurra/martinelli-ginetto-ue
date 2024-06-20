@@ -1,0 +1,60 @@
+main img {
+    width: 100% !important;
+}
+
+header .nav-wrapper, footer, main .hero .hero-content .seperator  {
+    background-color: #205a41 !important;
+    
+}
+
+.text-intro {
+    text-align: center;
+}
+
+.no-separator .columns > div {
+    border-bottom: 0 !important;
+
+}
+
+.background-grey .columns > div {
+    border-bottom: 0 !important;
+    height: auto !important;
+    font-size: 23px;
+    line-height: 39px;
+}
+
+.background-grey.section {
+    background-color: #f5f5f4 !important;
+}
+
+header nav .nav-brand img {
+    width: 180px !important;
+}
+
+.text-intro img {
+    width: 80% !important;
+    max-width: 600px !important;
+}
+
+
+@media (max-width: 900px) {
+    .background-grey.section {
+        margin-top: 250px;
+    }
+
+    .background-grey.section .default-content-wrapper {
+        text-align: center;
+    }
+    
+    .background-grey .columns > div {
+        width: 100% !important;
+    }
+    .background-grey .columns > div div {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .contatti {
+        padding-left: 20px !important;
+    }
+}
